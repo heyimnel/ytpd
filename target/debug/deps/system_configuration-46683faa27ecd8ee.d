@@ -1,0 +1,9 @@
+/Users/nel/me/Work/Dev/Code/ytpd/target/debug/deps/libsystem_configuration-46683faa27ecd8ee.rmeta: /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/lib.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/dynamic_store.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_configuration.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_reachability.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/preferences.rs
+
+/Users/nel/me/Work/Dev/Code/ytpd/target/debug/deps/system_configuration-46683faa27ecd8ee.d: /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/lib.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/dynamic_store.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_configuration.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_reachability.rs /Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/preferences.rs
+
+/Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/lib.rs:
+/Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/dynamic_store.rs:
+/Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_configuration.rs:
+/Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/network_reachability.rs:
+/Users/nel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.6.1/src/preferences.rs:
