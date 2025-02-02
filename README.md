@@ -14,7 +14,9 @@ basically yt-dlp with better 'interface' built over it but less options cuz i do
 ## Installation
 
 ```bash
-cargo install ytpd
+git clone https://github.com/heyimnel/ytpd
+cd ytpd
+cargo install --path .
 ```
 
 ## Usage
